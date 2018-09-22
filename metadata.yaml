@@ -1,11 +1,16 @@
 _repo: Korperpflege-durch-Gymnastik-Licht-und-Luft_55187
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55187-h/images/cover.jpg
 creator:
   author:
     agent_name: Jaerschky, Paul
     gutenberg_agent_id: '48216'
     url: http://www.gutenberg.org/2009/agents/48216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55187#Korperpflege-durch-Gymnastik-Licht-und-Luft
 gutenberg_issued: '2017-07-24'
 gutenberg_type: Text
 identifiers:
